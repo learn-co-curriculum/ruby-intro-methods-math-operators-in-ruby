@@ -68,6 +68,6 @@ The lab is test driven, so get the tests to pass.
 
 ## Conclusion
 
-Ruby provides us with many math and arithmetic capabilities. Some look and work identically to what we may have learned in a math class, however, there are a few other math tricks -- like using modulo `%` to find out the remainder of a division, and use the remainder to check if a number is divisible by another, or the `Math` method that can help us calculate square root or round a float up or down to the nearest whole number. 
+Ruby provides us with many math and arithmetic capabilities. Some look and work identically to what we may have learned in a math class, however, there are a few other math tricks -- like using modulo `%` to find out the remainder of a division, and use the remainder to check if a number is divisible by another, or the `Math` method that can help us calculate square root or round a float up or down to the nearest whole number.
 
 ## Resources
