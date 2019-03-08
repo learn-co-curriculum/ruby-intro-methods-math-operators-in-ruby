@@ -1,4 +1,4 @@
-# Build a Calculator
+# Math Operators in Ruby
 
 ## Learning Goals
 
