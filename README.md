@@ -206,8 +206,8 @@ down to the nearest whole number.
 
 ## Resources
 
-[Ruby Arithmetic Operators](https://www.w3resource.com/ruby/ruby-arithmetic-operators.php)
-[Ruby Docs: Math](https://ruby-doc.org/core-2.3.0/Math.html)
-[Fun With Modular Arithmetic](https://betterexplained.com/articles/fun-with-modular-arithmetic/)
-[ref]: https://www.w3resource.com/ruby/ruby-arithmetic-operators.php
-[math]: https://ruby-doc.org/core-2.2.0/Math.html
+- [Ruby Arithmetic Operators](https://www.w3resource.com/ruby/ruby-arithmetic-operators.php)
+- [Ruby Docs: Math](https://ruby-doc.org/core-2.3.0/Math.html)
+- [Fun With Modular Arithmetic](https://betterexplained.com/articles/fun-with-modular-arithmetic/)
+- [ref]: https://www.w3resource.com/ruby/ruby-arithmetic-operators.php
+- [math]: https://ruby-doc.org/core-2.2.0/Math.html
